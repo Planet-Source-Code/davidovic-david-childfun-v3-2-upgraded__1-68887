@@ -1,0 +1,17 @@
+Much changed...
+
+	v1.0 - It's a basic version with image sprayer without masks and no transparency. Brush function & random colours.
+	v1.1 - Fixed minor bugs - mnuPopupRandom & saving type.
+	v2.0 - Added mask to image sprayer pictures. Image sprayer is now upgraded.
+	v2.5 - Support for image sprayer sets. Now you can paint images with three sets (Default,3D Models,3D Models Colour)
+	v3.0 - Added support for plugins. Basic plugins Brush random colors,Brush random size added. Random colors checkbox removed, now it's inside plugin.
+	v3.1 - New plugins Mirror function and Mirror function Horizontal.
+	v3.2 - Plugin brush gradient colors added.
+	v3.3 - Added Effects plugin.
+	
+
+	**** coming soon ****
+
+	v3.3a - I'll add new effects.
+	v4.0 - Maybe I'll make special .chf format
+	v5.0 - Not SURE!!! :)
